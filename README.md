@@ -29,6 +29,12 @@ converter.RGBtoHEX({
 converter.RGBtoHEX([255, 0, 0])
 //=> 'ff0000'
 
+// Hex value can be 3 or 6 characters with or without '#'.
+// Valid arguments:
+// ff0000
+// f00
+// #ff0000
+// #f00
 converter.HEXtoRGB('ff0000');
 /*
 => {
