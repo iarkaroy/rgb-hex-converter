@@ -1,6 +1,6 @@
 {
   "name": "rgb-hex-converter",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Convert color values between RGB <-> HEX",
   "main": "index.js",
   "scripts": {
